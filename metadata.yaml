@@ -1,0 +1,40 @@
+_repo: Selections-from-Wordsworth-and-Tennyson_14952
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+  - agent_name: Wordsworth, William
+    birthdate: 1770
+    deathdate: 1850
+    gutenberg_agent_id: '2879'
+    url: http://www.gutenberg.org/2009/agents/2879
+    wikipedia: http://en.wikipedia.org/wiki/William_Wordsworth
+  editor:
+    agent_name: Edgar, Pelham
+    birthdate: 1871
+    deathdate: 1948
+    gutenberg_agent_id: '39113'
+    url: http://www.gutenberg.org/2009/agents/39113
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+title: Selections from Wordsworth and Tennyson
+url: http://www.gutenberg.org/ebooks/14952
